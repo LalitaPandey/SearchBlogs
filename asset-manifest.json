@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.3cc217b0.css",
-    "main.js": "/static/js/main.c12095db.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.3cc217b0.css.map": "/static/css/main.3cc217b0.css.map",
-    "main.c12095db.js.map": "/static/js/main.c12095db.js.map"
+    "main.css": "/LalitaPandey/my-app/static/css/main.3cc217b0.css",
+    "main.js": "/LalitaPandey/my-app/static/js/main.39f50e48.js",
+    "static/media/logo.svg": "/LalitaPandey/my-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/LalitaPandey/my-app/index.html",
+    "main.3cc217b0.css.map": "/LalitaPandey/my-app/static/css/main.3cc217b0.css.map",
+    "main.39f50e48.js.map": "/LalitaPandey/my-app/static/js/main.39f50e48.js.map"
   },
   "entrypoints": [
     "static/css/main.3cc217b0.css",
-    "static/js/main.c12095db.js"
+    "static/js/main.39f50e48.js"
   ]
 }
