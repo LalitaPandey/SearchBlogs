@@ -34,6 +34,12 @@ body {
   color: #eb3232;
 }
 
+@media screen and (max-width: 900px) {
+  .container .search-text {
+    width: 90%;
+  }  
+}
+
 .container .search-text {
   font-weight: bold;
   padding: 5px;
